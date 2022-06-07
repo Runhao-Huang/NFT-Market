@@ -1,7 +1,7 @@
 # NFT-Market
 Practiced using Motoko, React, and DFX to create and deploy a NFT market place on Internet Computers. Functions including minting, listing, buying, and displaying is deployed. The virtual currency used for testing is "Dang" created by Angela Yu.
 
-To actually use the project's function of buying in virtual currency, you need to download the local token package created by Angela Yu. You can find it in token-local.zip.
+To actually use the project's function of buying in virtual currency, you need to download the local token package created by Angela Yu. You can contact me for the package if you don't have access to her subscription.
 
 This project could be deployed to Internet Computer. However, considering the cost of buying ICP tokens and maintainance, I decided to just keep it local.
 
